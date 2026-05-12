@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab1ae35e.css",
-    "main.js": "/static/js/main.a5ec1085.js",
+    "main.css": "/static/css/main.fb5b3027.css",
+    "main.js": "/static/js/main.2cb816bb.js",
     "static/media/video-compressed.mp4": "/static/media/video-compressed.5edea443687b873a6995.mp4",
     "static/media/me_coloured.jpg": "/static/media/me_coloured.918a7dfabc9989aaf9c1.jpg",
     "static/media/sculpture_gold.jpg": "/static/media/sculpture_gold.9bc2001305f24e84d350.jpg",
@@ -9,26 +9,44 @@
     "static/media/mistery_man.jpg": "/static/media/mistery_man.30a30797bb24d10eb07e.jpg",
     "static/media/sculpture.jpg": "/static/media/sculpture.5e9bf893775160a557d9.jpg",
     "static/media/France FULL.jpg": "/static/media/France FULL.312efa4ff27bf56a26b5.jpg",
+    "static/media/farm-01.jpg": "/static/media/farm-01.4fde177ec61fec1c95a4.jpg",
+    "static/media/food-06.jpg": "/static/media/food-06.3dc680da9dacbc9466ec.jpg",
     "static/media/Outdoor Bath FULL.jpg": "/static/media/Outdoor Bath FULL.9e6447e8f9b9f2ee55a2.jpg",
     "static/media/San Pedro Cactus FULL.jpg": "/static/media/San Pedro Cactus FULL.ed5debaf53fcaca30cba.jpg",
     "static/media/Sea FULL.jpg": "/static/media/Sea FULL.f412880e4a3ba21c6eb3.jpg",
     "static/media/Seaside FULL.jpg": "/static/media/Seaside FULL.5f7572e9e126027ed3bd.jpg",
     "static/media/Cruise FULL.jpg": "/static/media/Cruise FULL.031b6c2220eae5db0958.jpg",
+    "static/media/food-02.jpg": "/static/media/food-02.fb1e72ad12e0e6c1cac1.jpg",
     "static/media/River FULL.jpg": "/static/media/River FULL.1cb75a5a780dfb620511.jpg",
+    "static/media/food-05.jpg": "/static/media/food-05.4894378b6f689c2394e9.jpg",
     "static/media/Pool FULL.png": "/static/media/Pool FULL.7ceb9362fcdb07b6adfb.png",
+    "static/media/food-03.jpg": "/static/media/food-03.d4482f59b909ddaf7977.jpg",
+    "static/media/food-04.jpg": "/static/media/food-04.ef5170c83ff1593b9cf9.jpg",
     "static/media/Thunder FULL.jpg": "/static/media/Thunder FULL.a07a95f103a419fcf977.jpg",
+    "static/media/food-10.jpg": "/static/media/food-10.b8142d72c904d78b021b.jpg",
     "static/media/Mountains FULL.jpg": "/static/media/Mountains FULL.5656b6984b15d32dfe5d.jpg",
+    "static/media/ec.svg": "/static/media/ec.fe64e3e541ac6e7f8c3782396929ac7b.svg",
+    "static/media/farm-02.jpg": "/static/media/farm-02.cde97d62657818cbb3a3.jpg",
+    "static/media/food-09.jpg": "/static/media/food-09.cf62905d155a6c4de8eb.jpg",
     "static/media/Bath Chill FULL.jpg": "/static/media/Bath Chill FULL.a21779010a038685627f.jpg",
     "static/media/tech cv.png": "/static/media/tech cv.d832ce9ab31ae95c55bb.png",
+    "static/media/food-01.jpg": "/static/media/food-01.eae6a05c8383d070f12b.jpg",
+    "static/media/food-07.jpg": "/static/media/food-07.67778b90e98792d39ff7.jpg",
     "static/media/Countryside FULL.jpg": "/static/media/Countryside FULL.57bf83053d7adb12069b.jpg",
+    "static/media/food-08.jpg": "/static/media/food-08.30031cce73c065b0ae87.jpg",
     "static/media/spinner.gif": "/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/rs.svg": "/static/media/rs.62d7e40bc5e8673ad508986c1f47a980.svg",
     "static/media/logo.png": "/static/media/logo.e6ecab4407f10ecd02bd.png",
     "index.html": "/index.html",
-    "main.ab1ae35e.css.map": "/static/css/main.ab1ae35e.css.map",
-    "main.a5ec1085.js.map": "/static/js/main.a5ec1085.js.map"
+    "static/media/it.svg": "/static/media/it.1f95c8f2253cf0a2ed3abce71fc98f2a.svg",
+    "static/media/fr.svg": "/static/media/fr.9aaf2702044bcd18fcf115507e499c93.svg",
+    "static/media/jp.svg": "/static/media/jp.e2f58c0d111282d19e934f4d409dd327.svg",
+    "static/media/id.svg": "/static/media/id.b7f50da2b3d9ec0cb0100e442cc35728.svg",
+    "main.fb5b3027.css.map": "/static/css/main.fb5b3027.css.map",
+    "main.2cb816bb.js.map": "/static/js/main.2cb816bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab1ae35e.css",
-    "static/js/main.a5ec1085.js"
+    "static/css/main.fb5b3027.css",
+    "static/js/main.2cb816bb.js"
   ]
 }
