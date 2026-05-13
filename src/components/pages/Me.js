@@ -104,10 +104,10 @@ function Me() {
           </div>
 
           <p className="me-hero__tagline">
-            I love cooking, and I help on a small farm most mornings.
+            I love cooking, and I've helped on a small farm on holidays.
           </p>
           <p className="me-hero__pitch">
-            Looking for cafe or hotel work.
+            Open to work, in a kitchen, a classroom, or behind a keyboard.
           </p>
         </div>
       </section>
